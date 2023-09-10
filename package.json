@@ -1,0 +1,27 @@
+{
+  "name": "b2014747_phamthanhhung_backend1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamThanhHungB2014747/B2014747_PhamThanhHung_BACKEND1.git"
+  },
+  "author": "Hung Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamThanhHungB2014747/B2014747_PhamThanhHung_BACKEND1/issues"
+  },
+  "homepage": "https://github.com/PhamThanhHungB2014747/B2014747_PhamThanhHung_BACKEND1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
